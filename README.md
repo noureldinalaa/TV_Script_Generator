@@ -27,5 +27,5 @@ In this project, we will generate our own Seinfeld TV scripts using RNNs. we wil
 	```
 		jupyter notebook dlnd_tv_script_generation.ipynb
 	```
-##Furthur tasks 
+## Furthur tasks 
 Try to increase the accuracy more .
